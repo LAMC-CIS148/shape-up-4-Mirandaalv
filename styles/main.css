@@ -1,6 +1,8 @@
 /* the styles for the elements */
 body {
 	font-family: sans-serif;
+	font-size: 100%;
+	float: right;
 }
 /* the styles for the header*/
 :root {
@@ -15,12 +17,31 @@ header h3 {
 	.shadow { 
 	 text-shadow: 2px 2px 4px #4682b4;
 }
+}
+header h2 {
+	color: var(--global-color-1);
+	font-size: 170%;
+	text-indent: 30px;
+}
+/* the styles for the main content */
+main {
+	clear: left;
+}
+main h1 {
+	font-size: 150%;
+}
+main h2 {
+	color: var(--global-color-1);
+	font-size: 170%;
+}
+main h3 {
+	a:hover, a:focus{
+		font-style: ;
+	}
+ 
+}
 
-
-/* the styles for the main*/
-
-
-
-
-
-/* the styles for the footer*/
+/* the styles for the footer */
+footer {
+	text-align: center;
+}
