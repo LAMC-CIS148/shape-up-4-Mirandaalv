@@ -28,7 +28,9 @@ a:hover {color:steelblue;}
 a.steelblue:link {color:steelblue;}
 a.steelblue:hover {color:maroon;}
 
-
+li {
+  margin: 5px 0;
+}
 main {
 	clear: left;
 }
