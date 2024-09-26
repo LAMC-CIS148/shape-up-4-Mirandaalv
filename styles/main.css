@@ -16,7 +16,7 @@ header h2 {
 	font-size: 200%;
 	text-indent: 30px;
 	.shadow { 
-	 text-shadow: 2px 2px 4px #4682b4;
+	 text-shadow: 2px 2px 2px #4682b4;
 	}
 }
 header h3 {
