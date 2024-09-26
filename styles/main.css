@@ -14,12 +14,12 @@ header h2 {
 	font-style: italic;
 	text-indent: 30px;
 	.shadow { 
-	text-shadow: 3px 3px 2px steelblue;
+	text-shadow: 4px 4px 2px steelblue;
 	}
 }
 header h3 {
 	text-indent: 30px;
-	font-size: 140%;
+	font-size: 150%;
 }
 /* the styles for the main content */
 a:link {color:maroon;}
