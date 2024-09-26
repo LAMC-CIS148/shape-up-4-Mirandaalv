@@ -24,6 +24,9 @@ header h2 {
 	text-indent: 30px;
 }
 /* the styles for the main content */
+a {
+  color: maroon;
+}
 main {
 	clear: left;
 }
