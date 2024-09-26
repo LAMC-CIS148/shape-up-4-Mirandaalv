@@ -11,8 +11,8 @@ header img {
 header h2 {
 	color: steelblue;
 	font-size: 200%;
-	font-style: italic:
-	text-indent: 40px;
+	font-style: italic;
+	text-indent: 30px;
 	.shadow { 
 	text-shadow: 3px 3px 2px steelblue;
 	}
