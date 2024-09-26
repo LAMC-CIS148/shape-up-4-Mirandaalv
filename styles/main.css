@@ -11,7 +11,7 @@ header img {
 header h2 {
 	color: steelblue;
 	font-size: 170%;
-	font-style: italic;
+	font-style: ;
 	text-indent: 30px;
 	.shadow { 
 	text-shadow: 3px 3px 2px steelblue;
@@ -19,7 +19,7 @@ header h2 {
 }
 header h3 {
 	text-indent: 30px;
-	font-size: 100%;
+	font-size: 150%;
 }
 /* the styles for the main content */
 a:link {color:maroon;}
