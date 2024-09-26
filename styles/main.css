@@ -35,7 +35,7 @@ a.steelblue {
   color: #4682b4;
 }
 a.steelblue:hover, a.steelblue:focus{
-		color: #4682b4;
+		color: maroon;
 }
 main {
 	clear: left;
