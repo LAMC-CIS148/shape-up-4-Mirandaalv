@@ -25,18 +25,13 @@ header h3 {
 	font-size: 150%;
 }
 /* the styles for the main content */
-a {
-  color: maroon;
-}
-	a:hover, a:focus{
-		color: #4682b4;
-}
-a.steelblue {
-  color: #4682b4;
-}
-a.steelblue:hover, a.steelblue:focus{
-		color: maroon;
-}
+a:link {color:maroon;}
+a:hover {color:steelblue;}
+
+a.steelblue:link {color:steelblue;}
+a.steelblue:hover {color:maroon;}
+
+
 main {
 	clear: left;
 }
