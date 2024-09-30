@@ -29,7 +29,7 @@ header {
 
 header h2 {
 	color: steelblue;
-	font-size: 200%;
+	font-size: 150%;
 	font-style: ;
 	text-indent: 30px;
 	.shadow { 
@@ -38,7 +38,7 @@ header h2 {
 }
 header h3 {
 	text-indent: 30px;
-	font-size: 160%;
+	font-size: 130%;
 }
 /* the styles for the main content */
 a:link {color:maroon;}
