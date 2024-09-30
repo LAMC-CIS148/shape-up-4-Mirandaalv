@@ -6,8 +6,7 @@ body {
 	display: flex;
 	text-align: center;
 	background-color: #f0f0f0;
-	boarder: 1px solid steelblue;
-	background: linear-gradient(red, yellow);
+
 }
 
 .container {
@@ -21,9 +20,10 @@ header img {
 }
 
 header {
-	background: linear-gradient (to bottom, white, lightsteelblue);
 	padding: 20px;
 	text-align: center;
+	boarder: 1px solid steelblue;
+	background: linear-gradient(white, yellow);
 }
 
 header h2 {
