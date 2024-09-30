@@ -1,9 +1,13 @@
 /* the styles for the elements */
+* {
+	margin: 0;
+	padding: 0;
+}
+
 body {
 	font-family: sans-serif;
 	float: right;
 	margin: 0;
-	text-align: center;
 	background-color: #f0f0f0;
 	width: 900px;
 	boarder: 5px solid steelblue;
@@ -17,7 +21,6 @@ header img {
 
 header {
 	padding: 20px;
-	text-align: center;
 	boarder: 1px solid steelblue;
 	background: linear-gradient(white, steelblue);
 }
