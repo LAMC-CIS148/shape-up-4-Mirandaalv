@@ -3,11 +3,30 @@ body {
 	font-family: sans-serif;
 	font-size: 140%;
 	float: right;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	height: 100vh;
+	background-color: #f0f0f0;
+}
+
+.container {
+	width: 900px;
+	boarder: 5px solid steelblue;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 /* the styles for the header*/
 header img {
 	float: left;
 }
+
+header {
+	background: linear-gradient (to bottom, white, lightsteelblue);
+	padding: 20px;
+	text-align: center;
+}
+
 header h2 {
 	color: steelblue;
 	font-size: 200%;
@@ -39,4 +58,7 @@ main {
 footer {
 	text-align: center;
 	font-size: 70%;
+	background: steelblue;
+	color: white;
+	padding: 10px;
 }
