@@ -6,13 +6,10 @@ body {
 	text-align: center;
 	background-color: #f0f0f0;
 	width: 900px;
-}
-
-.container {
-	width: 900px;
 	boarder: 5px solid steelblue;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
+
 /* the styles for the header*/
 header img {
 	float: left;
