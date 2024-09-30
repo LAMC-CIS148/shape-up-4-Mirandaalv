@@ -22,7 +22,7 @@ header {
 	padding: 20px;
 	text-align: center;
 	boarder: 1px solid steelblue;
-	background: linear-gradient(white, yellow);
+	background: linear-gradient(white, steelblue);
 }
 
 header h2 {
