@@ -62,5 +62,6 @@ footer {
 	padding: 10px;
 }
 header, footer, main {
-	
+	margin: 0;
+	padding: 10px;
 }
