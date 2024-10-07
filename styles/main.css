@@ -1,7 +1,8 @@
 /* the styles for the elements */
 * {
-	
-}
+	margin: 0;
+	padding: 0;
+}	
 
 body {
 	font-family: sans-serif;
